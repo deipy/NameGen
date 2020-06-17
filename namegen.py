@@ -1,4 +1,5 @@
 #This program generates a series of random names with a basic structure, of random or predetermined length
+#written by Deipy (https://github.com/deipy/), please notify me if you distribute this script
 
 import random
 from colorama import Fore
